@@ -34,8 +34,8 @@ nav{
 }
 
 aside{
-    width:50%;
-    height: 600px;
+    width:40%;
+    height: 900px;
     background:#e4e2e9;
     display: block;
     justify-content: center;
@@ -47,8 +47,8 @@ aside{
 
 
 main{
-    width:50%;
-    height: 600px;
+    width: 60%;
+    height: 900px;
     background:#e4e2e9;
 
     display: block;
