@@ -34,7 +34,7 @@ nav{
 }
 
 aside{
-    width:20%;
+    width:40%;
     height: 600px;
     background:#e4e2e9;
     display: block;
@@ -47,7 +47,7 @@ aside{
 
 
 main{
-    width: 80%;
+    width: 60%;
     height: 600px;
     background:#e4e2e9;
 
